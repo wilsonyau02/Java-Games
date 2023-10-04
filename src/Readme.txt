@@ -1,0 +1,12 @@
+Reminder:
+
+Hangman
+-Please notice that the pathname to get the word.txt file may be
+different depends on the user if the user do not download the whole project directly.
+-If the user directly download the project, then there is no problem
+
+
+Flip and match
+-After running the flip and match game, if the JOptionPane do not pop out,
+please try to enter Alt + Tab key to see whether the JOptionPane is
+covered by the other application screen.
